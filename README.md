@@ -1,3 +1,18 @@
+VYchan - Cryptocurrency and Coinhive Pass system for vichan.
+========================================================
+
+About
+------------
+VYchan is a free fork addon to the vichan image board software. It is based on the vichan source code and adds the ability for site admins to sell passes using cryptocurrency and/or use Coinhive site monetization to give passes.
+
+Development was commisioned by VidYen, LLC to be used freely to promote the use of cryptocurrenices and Coinhive for site monetization.
+
+History
+------------
+See below. VYchan is a fork of existing vichan and the defunct Tinyboard.
+
+
+
 vichan - A lightweight and full featured PHP imageboard.
 ========================================================
 
