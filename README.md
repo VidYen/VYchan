@@ -13,6 +13,22 @@ History
 ------------
 See below in vichan history. VYchan is a fork in 2018 of existing vichan and the defunct Tinyboard with the additions of pass system.
 
+Installation
+-------------
+Installation is a bit tricky and not like vichan as we had to do a few things to get it to work. Hopefully someone will make this better.
+
+Currently, install all the files in the public_html folder you wan to use.
+Manually install the "install.sql" file and the run the mod.php file with the user name: admin and pass: password (yes you should change this right away) and then rebuild the boards.
+
+When in doubt rebuild the boards.
+
+Also you will need to delete the boards that do not actually exist.
+
+Also the crypto system is under the "pass" folder in the "templates" folder. Just install, add they required keys, install, and rebuild.
+You will need a Coinpayments.net and Coinhive.com account to get this to work properly.
+
+Eventually we will write a better instructions but for now... This is what you get.
+
 Support
 --------
 Very little support will be given as VidYen, LLC is focused on WordPress development projects, but if you join our Discord we generally would have interest in seeing this actually used so would help out if possible.
