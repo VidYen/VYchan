@@ -35,7 +35,7 @@ Very little support will be given as VidYen, LLC is focused on WordPress develop
 
 Our discord is currently: https://discord.gg/6svN5sS
 
-Eventually https://discord.vidyen.com will be a permanent link.
+Eventually https://www.vidyen.com will be a permanent link.
 
 Also we would not be opposed to having the pass, ch, and ad rotation added back into vichan proper if any of them notice and want to add that back in as it would help our goal of promoting the use of Coinhive for legitimate purposes (As long as it always used with explanation and consent)
 
