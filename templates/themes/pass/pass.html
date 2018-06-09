@@ -1,0 +1,86 @@
+{% filter remove_whitespace %}
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>{{ settings.title }}</title>
+    {% if config.meta_keywords %}<meta name="keywords" content="{{ config.meta_keywords }}">{% endif %}
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
+    {% if config.url_favicon %}<link rel="shortcut icon" href="{{ config.url_favicon }}">{% endif %}
+    <link rel="stylesheet" media="screen" href="{{ config.url_stylesheet }}">
+    <link rel="stylesheet" media="screen" href="/recent.css">
+    {% if config.default_stylesheet.1 != '' %}<link rel="stylesheet" type="text/css" id="stylesheet" href="{{ config.uri_stylesheets }}{{ config.default_stylesheet.1 }}">{% endif %}
+    {% if config.font_awesome %}<link rel="stylesheet" href="{{ config.root }}{{ config.font_awesome_css }}">{% endif %}
+</head>
+<body class="8chan vichan {% if mod %}is-moderator{% else %}is-not-moderator{% endif %}" data-stylesheet="{% if config.default_stylesheet.1 != '' %}{{ config.default_stylesheet.1 }}{% else %}default{% endif %}">
+[<a href="/">Home</a>]
+<header>
+    <h1>Buy a pass/advertisement</h1>
+</header>
+
+<div class="ban news">
+    <h2>Twenty-four hour pass (LTC)</h2>
+
+    <div style="padding:10px;">
+        <table style="width:100%">
+            <tr>
+                <th style="text-align:left;">Type</th>
+                <th style="text-align:left;">Price</th>
+                <th style="text-align:left;">Action</th>
+            </tr>
+            <tr>
+                <td>24 Hour Pass</td>
+                <td>.5 USD in LTC</td>
+                <td>
+                    <a href="/buy.php?24h">
+                        <button type="button">Get</button>
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td>7 Day Pass</td>
+                <td>3.50 USD in LTC</td>
+                <td>
+                    <a href="/buy.php?7d">
+                        <button type="button">Get</button>
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td>24 Hour Advertisement</td>
+                <td>3.50 USD in LTC</td>
+                <td>
+                    <a href="/buy.php?a">
+                        <button type="button">Get</button>
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td>CoinHive (6 hours)</td>
+                <td>N/A</td>
+                <td>
+                    <a href="/ch.html">
+                        <button type="button">Get</button>
+                    </a>
+                </td>
+            </tr>
+        </table>
+    </div>
+</div>
+
+<div class="ban news">
+    <h2>Use existing pass</h2>
+
+    <div style="padding:10px;">
+        <form method="post" action="/buy.php">
+            <input type="hidden" name="type" value="existing"/>
+            <input type="text" placeholder="uuid" name="uuid"/>
+            <input type="password" placeholder="pass key" name="pass"/>
+            <input type="submit"/>
+        </form>
+    </div>
+</div>
+<br />
+</body>
+</html>
+{% endfilter %}

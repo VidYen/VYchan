@@ -1,0 +1,17 @@
+<form style="width:300px;margin:auto" action="?/ads" method="post">
+    <input type="hidden" name="token" value="{{ token }}">
+    {% for advertisement in advertisements %}
+        <div style="border:1px solid black;display:inline-block;">
+            <img src="/{{ advertisement[1] }}" />
+            <br />
+            <p style="text-align:center;">{{ advertisement[2] }}</p>
+            Delete: <input type="checkbox" name="checkbox[]" value="{{ advertisement[0] }}"/>
+        </div>
+        <br /><br />
+    {% endfor %}
+    <hr>
+
+    <p style="text-align:center">
+        <input type="submit" value="{% trans 'Delete' %}" name="delete">
+    </p>
+</form>

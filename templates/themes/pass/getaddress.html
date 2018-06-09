@@ -1,0 +1,42 @@
+{% filter remove_whitespace %}
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>{{ settings.title }}</title>
+    {% if config.meta_keywords %}<meta name="keywords" content="{{ config.meta_keywords }}">{% endif %}
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
+    {% if config.url_favicon %}<link rel="shortcut icon" href="{{ config.url_favicon }}">{% endif %}
+    <link rel="stylesheet" media="screen" href="{{ config.url_stylesheet }}">
+    <link rel="stylesheet" media="screen" href="/recent.css">
+    {% if config.default_stylesheet.1 != '' %}<link rel="stylesheet" type="text/css" id="stylesheet" href="{{ config.uri_stylesheets }}{{ config.default_stylesheet.1 }}">{% endif %}
+    {% if config.font_awesome %}<link rel="stylesheet" href="{{ config.root }}{{ config.font_awesome_css }}">{% endif %}
+</head>
+<body class="8chan vichan {% if mod %}is-moderator{% else %}is-not-moderator{% endif %}" data-stylesheet="{% if config.default_stylesheet.1 != '' %}{{ config.default_stylesheet.1 }}{% else %}default{% endif %}">
+[<a href="/">Home</a>]
+<header>
+    <h1>Buy a pass</h1>
+</header>
+
+<div class="ban news">
+    <h2>Enter your email address (for refunds)</h2>
+
+    <div style="padding:10px;">
+        <form method="post" action="/buy.php?{{ type }}">
+            <input type="email" placeholder="email" name="email"/>
+            <input type="radio" id="btc" name="crypto" value="BTC">
+            <label for="btc">Bitcoin</label>
+
+            <input type="radio" id="ltc" name="crypto" value="LTC">
+            <label for="ltc">Litecoin</label>
+
+            <input type="radio" id="doge" name="crypto" value="DOGE">
+            <label for="doge">Dogecoin</label>
+            <input type="submit" value="Buy"/>
+        </form>
+    </div>
+</div>
+<br />
+</body>
+</html>
+{% endfilter %}

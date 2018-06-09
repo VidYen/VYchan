@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16bbffe1-9d42-443a-8e33-e2693a8553e6" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="getaddress.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/themes/pass/getaddress.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="33" column="46" lean-forward="false" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>config</find>
+      <find>manage</find>
+      <find>moderation log</find>
+      <find>rebuild</find>
+      <find>mod_crypto</find>
+      <find>mod_user</find>
+      <find>'user'</find>
+      <find>board</find>
+      <find>error</find>
+      <find>unknown</find>
+      <find>dl(</find>
+      <find>xmlrpc</find>
+      <find>xmlrpc.inc</find>
+      <find>xmlrpcresp</find>
+      <find>client_load</find>
+      <find>xmlrpc_client</find>
+      <find>url</find>
+      <find>word</find>
+      <find>hexDec</find>
+      <find>55066263022277343669578718895168534326250603453777594175500187360389116729240</find>
+      <find>generateRandom256BitsHexaString</find>
+      <find>$this-&gt;k</find>
+      <find>Wif</find>
+      <find>00</find>
+      <find>theme_s</find>
+      <find>confirmed</find>
+      <find>require</find>
+      <find>hashes</find>
+      <find>query</find>
+      <find>$query</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/inc</dir>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/js</dir>
+      <dir>$PROJECT_DIR$/templates/mod</dir>
+      <dir>$PROJECT_DIR$/templates</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/vichan" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/templates/themes/recent/theme.php" />
+        <option value="$PROJECT_DIR$/templates/themes/recent/recent.html" />
+        <option value="$PROJECT_DIR$/templates/themes/basic/index.html" />
+        <option value="$PROJECT_DIR$/templates/themes/basic/theme.php" />
+        <option value="$PROJECT_DIR$/templates/themes/recent/recent.css" />
+        <option value="$PROJECT_DIR$/banner.php" />
+        <option value="$PROJECT_DIR$/stylesheets/style.css" />
+        <option value="$PROJECT_DIR$/printout.php" />
+        <option value="$PROJECT_DIR$/templates/post_thread.html" />
+        <option value="$PROJECT_DIR$/js/quick-reply.js" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/templates/themes/pass/theme.php" />
+        <option value="$PROJECT_DIR$/inc/template.php" />
+        <option value="$PROJECT_DIR$/pass.php" />
+        <option value="$PROJECT_DIR$/templates/themes/pass/ch.html" />
+        <option value="$PROJECT_DIR$/inc/functions.php" />
+        <option value="$PROJECT_DIR$/templates/themes/pass/miner.html" />
+        <option value="$PROJECT_DIR$/templates/main.js" />
+        <option value="$PROJECT_DIR$/inc/instance-config.php" />
+        <option value="$PROJECT_DIR$/js/show-own-posts.js" />
+        <option value="$PROJECT_DIR$/inc/captcha/config.php" />
+        <option value="$PROJECT_DIR$/learn.php" />
+        <option value="$PROJECT_DIR$/love.php" />
+        <option value="$PROJECT_DIR$/templates/mod/ads.html" />
+        <option value="$PROJECT_DIR$/post.php" />
+        <option value="$PROJECT_DIR$/templates/thread.html" />
+        <option value="$PROJECT_DIR$/inc/lib/ltc/litecoin.php" />
+        <option value="$PROJECT_DIR$/templates/mod/crypto.html" />
+        <option value="$PROJECT_DIR$/inc/lib/ltc/includes/xmlrpc.inc" />
+        <option value="$PROJECT_DIR$/inc/lib/ltc/includes/jsonrpc.inc" />
+        <option value="$PROJECT_DIR$/inc/lib/ltc/json-rpc.php" />
+        <option value="$PROJECT_DIR$/mod.php" />
+        <option value="$PROJECT_DIR$/inc/mod/pages.php" />
+        <option value="$PROJECT_DIR$/templates/mod/dashboard.html" />
+        <option value="$PROJECT_DIR$/inc/lib/ecc/Random/RandomNumberGenerator.php" />
+        <option value="$PROJECT_DIR$/vendor/mdanter/ecc/src/Primitives/CurveFp.php" />
+        <option value="$PROJECT_DIR$/litecoin.php" />
+        <option value="$PROJECT_DIR$/inc/lib/BitcoinECDSA.php" />
+        <option value="$PROJECT_DIR$/inc/lib/cp/coinpayments.inc.php" />
+        <option value="$PROJECT_DIR$/templates/themes/pass/info.php" />
+        <option value="$PROJECT_DIR$/templates/themes/pass/advertisement.html" />
+        <option value="$PROJECT_DIR$/templates/themes/pass/pass_24h.html" />
+        <option value="$PROJECT_DIR$/templates/themes/pass/pass_7d.html" />
+        <option value="$PROJECT_DIR$/install.sql" />
+        <option value="$PROJECT_DIR$/templates/themes/pass/ch_info.html" />
+        <option value="$PROJECT_DIR$/templates/themes/pass/login.html" />
+        <option value="$PROJECT_DIR$/ch.php" />
+        <option value="$PROJECT_DIR$/buy.php" />
+        <option value="$PROJECT_DIR$/templates/post_form.html" />
+        <option value="$PROJECT_DIR$/templates/themes/pass/pass.html" />
+        <option value="$PROJECT_DIR$/templates/themes/pass/getaddress.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/mdanter/ecc" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/fgrosse/phpasn1" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="39" />
+    <option name="width" value="1920" />
+    <option name="height" value="1041" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="r0t" type="b2602c69:ProjectViewProjectNode" />
+              <item name="r0t" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="r0t" type="b2602c69:ProjectViewProjectNode" />
+              <item name="r0t" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="r0t" type="b2602c69:ProjectViewProjectNode" />
+              <item name="r0t" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="r0t" type="b2602c69:ProjectViewProjectNode" />
+              <item name="r0t" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="pass" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Electrum-LTC-3.1.2.1" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/inc/lib" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates/themes/pass" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16bbffe1-9d42-443a-8e33-e2693a8553e6" name="Default" comment="" />
+      <created>1523302018800</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523302018800</updated>
+      <workItem from="1523302021126" duration="634000" />
+      <workItem from="1523302885349" duration="17065000" />
+      <workItem from="1523386335876" duration="18305000" />
+      <workItem from="1523476635522" duration="2474000" />
+      <workItem from="1523564773709" duration="12913000" />
+      <workItem from="1523646720944" duration="3773000" />
+      <workItem from="1523804873193" duration="10444000" />
+      <workItem from="1523834222010" duration="4000" />
+      <workItem from="1523834344067" duration="264000" />
+      <workItem from="1523834688860" duration="4000" />
+      <workItem from="1523835681704" duration="1376000" />
+      <workItem from="1523908542862" duration="103000" />
+      <workItem from="1523928046271" duration="4232000" />
+      <workItem from="1523932560367" duration="51000" />
+      <workItem from="1523995172893" duration="1335000" />
+      <workItem from="1523999838321" duration="5802000" />
+      <workItem from="1524081281601" duration="7950000" />
+      <workItem from="1524166683698" duration="5551000" />
+      <workItem from="1524319874811" duration="8993000" />
+      <workItem from="1524334802432" duration="11000" />
+      <workItem from="1524422686710" duration="2852000" />
+      <workItem from="1524511267556" duration="8636000" />
+      <workItem from="1524608603332" duration="23000" />
+      <workItem from="1524775200076" duration="7458000" />
+      <workItem from="1524787953237" duration="3000" />
+      <workItem from="1524864757142" duration="6692000" />
+      <workItem from="1524937950909" duration="280000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="140887000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="39" width="1920" height="1041" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18229167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/templates/themes/pass/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="36" column="25" lean-forward="false" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/themes/pass/ch_info.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#h3#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/themes/pass/miner.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/themes/pass/info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1524873245307" expanded="true" signature="187:255" ph="SELECT `pass... pass" />
+            <marker date="1524873245307" expanded="true" signature="699:751" ph="UPDATE crypto_pass... " />
+            <marker date="1524873245307" expanded="true" signature="1031:1065" ph="SELECT `ltc_... theme_settings" />
+            <marker date="1524873245307" expanded="true" signature="1031:1092" ph="SELECT `valu... theme_settings" />
+            <marker date="1524873245307" expanded="true" signature="1170:1232" ph="SELECT `valu... theme_settings" />
+            <marker date="1524873245307" expanded="true" signature="2323:2451" ph="INSERT INTO crypto_pass... " />
+            <marker date="1524873245307" expanded="true" signature="2870:2952" ph="SELECT `addr... ltc_pass" />
+            <marker date="1524873245307" expanded="true" signature="4028:4086" ph="SELECT `file... advertisement" />
+            <marker date="1524873245307" expanded="true" signature="4357:4461" ph="INSERT INTO advertisement... " />
+            <marker date="1524873245307" expanded="true" signature="6163:6263" ph="UPDATE advertisement... " />
+            <marker date="1524873245307" expanded="true" signature="8041:8169" ph="INSERT INTO crypto_pass... " />
+            <marker date="1524873245307" expanded="true" signature="8554:8573" ph="SELECT `addr... ltc_pass" />
+            <marker date="1524873245307" expanded="true" signature="8554:8636" ph="SELECT `addr... crypto_pass" />
+            <marker date="1524873245307" expanded="true" signature="9712:9756" ph="SELECT `pass... pass" />
+            <marker date="1524873245307" expanded="true" signature="10171:10253" ph="INSERT INTO pass... " />
+            <marker date="1524873245307" expanded="true" signature="11524:11652" ph="INSERT INTO crypto_pass... " />
+            <marker date="1524873245307" expanded="true" signature="12037:12056" ph="SELECT `addr... ltc_pass" />
+            <marker date="1524873245307" expanded="true" signature="12037:12119" ph="SELECT `addr... crypto_pass" />
+            <marker date="1524873245307" expanded="true" signature="13195:13239" ph="SELECT `pass... pass" />
+            <marker date="1524873245307" expanded="true" signature="13653:13735" ph="INSERT INTO pass... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/themes/pass/getaddress.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="34" lean-forward="false" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/themes/pass/info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/themes/pass/pass.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1314">
+          <caret line="73" column="6" lean-forward="false" selection-start-line="73" selection-start-column="6" selection-end-line="73" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/install.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6786">
+          <caret line="377" column="44" lean-forward="false" selection-start-line="377" selection-start-column="44" selection-end-line="377" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1524873245307" expanded="true" signature="187:255" ph="SELECT `pass... pass" />
+            <marker date="1524873245307" expanded="true" signature="699:751" ph="UPDATE crypto_pass... " />
+            <marker date="1524873245307" expanded="true" signature="1031:1065" ph="SELECT `ltc_... theme_settings" />
+            <marker date="1524873245307" expanded="true" signature="1031:1092" ph="SELECT `valu... theme_settings" />
+            <marker date="1524873245307" expanded="true" signature="1170:1232" ph="SELECT `valu... theme_settings" />
+            <marker date="1524873245307" expanded="true" signature="2323:2451" ph="INSERT INTO crypto_pass... " />
+            <marker date="1524873245307" expanded="true" signature="2870:2952" ph="SELECT `addr... ltc_pass" />
+            <marker date="1524873245307" expanded="true" signature="4028:4086" ph="SELECT `file... advertisement" />
+            <marker date="1524873245307" expanded="true" signature="4357:4461" ph="INSERT INTO advertisement... " />
+            <marker date="1524873245307" expanded="true" signature="6163:6263" ph="UPDATE advertisement... " />
+            <marker date="1524873245307" expanded="true" signature="8041:8169" ph="INSERT INTO crypto_pass... " />
+            <marker date="1524873245307" expanded="true" signature="8554:8573" ph="SELECT `addr... ltc_pass" />
+            <marker date="1524873245307" expanded="true" signature="8554:8636" ph="SELECT `addr... crypto_pass" />
+            <marker date="1524873245307" expanded="true" signature="9712:9756" ph="SELECT `pass... pass" />
+            <marker date="1524873245307" expanded="true" signature="10171:10253" ph="INSERT INTO pass... " />
+            <marker date="1524873245307" expanded="true" signature="11524:11652" ph="INSERT INTO crypto_pass... " />
+            <marker date="1524873245307" expanded="true" signature="12037:12056" ph="SELECT `addr... ltc_pass" />
+            <marker date="1524873245307" expanded="true" signature="12037:12119" ph="SELECT `addr... crypto_pass" />
+            <marker date="1524873245307" expanded="true" signature="13195:13239" ph="SELECT `pass... pass" />
+            <marker date="1524873245307" expanded="true" signature="13653:13735" ph="INSERT INTO pass... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/themes/pass/pass.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1314">
+          <caret line="73" column="6" lean-forward="false" selection-start-line="73" selection-start-column="6" selection-end-line="73" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/themes/pass/getaddress.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="34" lean-forward="false" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/themes/pass/info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/install.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6786">
+          <caret line="377" column="44" lean-forward="true" selection-start-line="377" selection-start-column="44" selection-end-line="377" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1524873245307" expanded="true" signature="187:255" ph="SELECT `pass... pass" />
+            <marker date="1524873245307" expanded="true" signature="699:751" ph="UPDATE crypto_pass... " />
+            <marker date="1524873245307" expanded="true" signature="1031:1065" ph="SELECT `ltc_... theme_settings" />
+            <marker date="1524873245307" expanded="true" signature="1031:1092" ph="SELECT `valu... theme_settings" />
+            <marker date="1524873245307" expanded="true" signature="1170:1232" ph="SELECT `valu... theme_settings" />
+            <marker date="1524873245307" expanded="true" signature="2323:2451" ph="INSERT INTO crypto_pass... " />
+            <marker date="1524873245307" expanded="true" signature="2870:2952" ph="SELECT `addr... ltc_pass" />
+            <marker date="1524873245307" expanded="true" signature="4028:4086" ph="SELECT `file... advertisement" />
+            <marker date="1524873245307" expanded="true" signature="4357:4461" ph="INSERT INTO advertisement... " />
+            <marker date="1524873245307" expanded="true" signature="6163:6263" ph="UPDATE advertisement... " />
+            <marker date="1524873245307" expanded="true" signature="8041:8169" ph="INSERT INTO crypto_pass... " />
+            <marker date="1524873245307" expanded="true" signature="8554:8573" ph="SELECT `addr... ltc_pass" />
+            <marker date="1524873245307" expanded="true" signature="8554:8636" ph="SELECT `addr... crypto_pass" />
+            <marker date="1524873245307" expanded="true" signature="9712:9756" ph="SELECT `pass... pass" />
+            <marker date="1524873245307" expanded="true" signature="10171:10253" ph="INSERT INTO pass... " />
+            <marker date="1524873245307" expanded="true" signature="11524:11652" ph="INSERT INTO crypto_pass... " />
+            <marker date="1524873245307" expanded="true" signature="12037:12056" ph="SELECT `addr... ltc_pass" />
+            <marker date="1524873245307" expanded="true" signature="12037:12119" ph="SELECT `addr... crypto_pass" />
+            <marker date="1524873245307" expanded="true" signature="13195:13239" ph="SELECT `pass... pass" />
+            <marker date="1524873245307" expanded="true" signature="13653:13735" ph="INSERT INTO pass... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/themes/pass/pass.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="50" column="24" lean-forward="false" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/themes/pass/pass_7d.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="48" column="19" lean-forward="false" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/themes/pass/pass_24h.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="48" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/themes/pass/advertisement.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="32" column="29" lean-forward="false" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/themes/pass/info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="41" column="29" lean-forward="false" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/install.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6642">
+          <caret line="369" column="7" lean-forward="false" selection-start-line="369" selection-start-column="0" selection-end-line="370" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/themes/pass/getaddress.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="52" lean-forward="false" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1524873245307" expanded="true" signature="187:255" ph="SELECT `pass... pass" />
+            <marker date="1524873245307" expanded="true" signature="699:751" ph="UPDATE crypto_pass... " />
+            <marker date="1524873245307" expanded="true" signature="1031:1065" ph="SELECT `ltc_... theme_settings" />
+            <marker date="1524873245307" expanded="true" signature="1031:1092" ph="SELECT `valu... theme_settings" />
+            <marker date="1524873245307" expanded="true" signature="1170:1232" ph="SELECT `valu... theme_settings" />
+            <marker date="1524873245307" expanded="true" signature="2323:2451" ph="INSERT INTO crypto_pass... " />
+            <marker date="1524873245307" expanded="true" signature="2870:2952" ph="SELECT `addr... ltc_pass" />
+            <marker date="1524873245307" expanded="true" signature="4028:4086" ph="SELECT `file... advertisement" />
+            <marker date="1524873245307" expanded="true" signature="4357:4461" ph="INSERT INTO advertisement... " />
+            <marker date="1524873245307" expanded="true" signature="6163:6263" ph="UPDATE advertisement... " />
+            <marker date="1524873245307" expanded="true" signature="8041:8169" ph="INSERT INTO crypto_pass... " />
+            <marker date="1524873245307" expanded="true" signature="8554:8573" ph="SELECT `addr... ltc_pass" />
+            <marker date="1524873245307" expanded="true" signature="8554:8636" ph="SELECT `addr... crypto_pass" />
+            <marker date="1524873245307" expanded="true" signature="9712:9756" ph="SELECT `pass... pass" />
+            <marker date="1524873245307" expanded="true" signature="10171:10253" ph="INSERT INTO pass... " />
+            <marker date="1524873245307" expanded="true" signature="11524:11652" ph="INSERT INTO crypto_pass... " />
+            <marker date="1524873245307" expanded="true" signature="12037:12056" ph="SELECT `addr... ltc_pass" />
+            <marker date="1524873245307" expanded="true" signature="12037:12119" ph="SELECT `addr... crypto_pass" />
+            <marker date="1524873245307" expanded="true" signature="13195:13239" ph="SELECT `pass... pass" />
+            <marker date="1524873245307" expanded="true" signature="13653:13735" ph="INSERT INTO pass... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/themes/pass/pass.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="50" column="24" lean-forward="false" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/themes/pass/pass_24h.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="48" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/themes/pass/pass_7d.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="48" column="19" lean-forward="false" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/themes/pass/advertisement.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="32" column="29" lean-forward="false" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/themes/pass/info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="41" column="29" lean-forward="false" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/install.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6642">
+          <caret line="369" column="7" lean-forward="false" selection-start-line="369" selection-start-column="0" selection-end-line="370" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/themes/pass/getaddress.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="52" lean-forward="false" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1524873245307" expanded="true" signature="187:255" ph="SELECT `pass... pass" />
+            <marker date="1524873245307" expanded="true" signature="699:751" ph="UPDATE crypto_pass... " />
+            <marker date="1524873245307" expanded="true" signature="1031:1065" ph="SELECT `ltc_... theme_settings" />
+            <marker date="1524873245307" expanded="true" signature="1031:1092" ph="SELECT `valu... theme_settings" />
+            <marker date="1524873245307" expanded="true" signature="1170:1232" ph="SELECT `valu... theme_settings" />
+            <marker date="1524873245307" expanded="true" signature="2323:2451" ph="INSERT INTO crypto_pass... " />
+            <marker date="1524873245307" expanded="true" signature="2870:2952" ph="SELECT `addr... ltc_pass" />
+            <marker date="1524873245307" expanded="true" signature="4028:4086" ph="SELECT `file... advertisement" />
+            <marker date="1524873245307" expanded="true" signature="4357:4461" ph="INSERT INTO advertisement... " />
+            <marker date="1524873245307" expanded="true" signature="6163:6263" ph="UPDATE advertisement... " />
+            <marker date="1524873245307" expanded="true" signature="8041:8169" ph="INSERT INTO crypto_pass... " />
+            <marker date="1524873245307" expanded="true" signature="8554:8573" ph="SELECT `addr... ltc_pass" />
+            <marker date="1524873245307" expanded="true" signature="8554:8636" ph="SELECT `addr... crypto_pass" />
+            <marker date="1524873245307" expanded="true" signature="9712:9756" ph="SELECT `pass... pass" />
+            <marker date="1524873245307" expanded="true" signature="10171:10253" ph="INSERT INTO pass... " />
+            <marker date="1524873245307" expanded="true" signature="11524:11652" ph="INSERT INTO crypto_pass... " />
+            <marker date="1524873245307" expanded="true" signature="12037:12056" ph="SELECT `addr... ltc_pass" />
+            <marker date="1524873245307" expanded="true" signature="12037:12119" ph="SELECT `addr... crypto_pass" />
+            <marker date="1524873245307" expanded="true" signature="13195:13239" ph="SELECT `pass... pass" />
+            <marker date="1524873245307" expanded="true" signature="13653:13735" ph="INSERT INTO pass... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/themes/pass/getaddress.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="52" lean-forward="false" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/litecoin.php" />
+    <entry file="file://$PROJECT_DIR$/install.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6318">
+          <caret line="351" column="2" lean-forward="false" selection-start-line="351" selection-start-column="2" selection-end-line="351" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/litecoin.php" />
+    <entry file="file://$PROJECT_DIR$/templates/themes/pass/theme.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/lib/cp/coinpayments.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1152">
+          <caret line="77" column="36" lean-forward="false" selection-start-line="77" selection-start-column="36" selection-end-line="77" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/themes/pass/pass_24h.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/themes/pass/pass_7d.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="68" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/themes/pass/ch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/post_form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="581">
+          <caret line="200" column="105" lean-forward="false" selection-start-line="200" selection-start-column="105" selection-end-line="200" selection-end-column="105" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/themes/pass/pass.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="32" lean-forward="false" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/themes/pass/advertisement.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="774">
+          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding>
+            <marker date="1524873245307" expanded="true" signature="187:255" ph="SELECT `pass... pass" />
+            <marker date="1524873245307" expanded="true" signature="699:751" ph="UPDATE crypto_pass... " />
+            <marker date="1524873245307" expanded="true" signature="1031:1065" ph="SELECT `ltc_... theme_settings" />
+            <marker date="1524873245307" expanded="true" signature="1031:1092" ph="SELECT `valu... theme_settings" />
+            <marker date="1524873245307" expanded="true" signature="1170:1232" ph="SELECT `valu... theme_settings" />
+            <marker date="1524873245307" expanded="true" signature="2323:2451" ph="INSERT INTO crypto_pass... " />
+            <marker date="1524873245307" expanded="true" signature="2870:2952" ph="SELECT `addr... ltc_pass" />
+            <marker date="1524873245307" expanded="true" signature="4028:4086" ph="SELECT `file... advertisement" />
+            <marker date="1524873245307" expanded="true" signature="4357:4461" ph="INSERT INTO advertisement... " />
+            <marker date="1524873245307" expanded="true" signature="6163:6263" ph="UPDATE advertisement... " />
+            <marker date="1524873245307" expanded="true" signature="8041:8169" ph="INSERT INTO crypto_pass... " />
+            <marker date="1524873245307" expanded="true" signature="8554:8573" ph="SELECT `addr... ltc_pass" />
+            <marker date="1524873245307" expanded="true" signature="8554:8636" ph="SELECT `addr... crypto_pass" />
+            <marker date="1524873245307" expanded="true" signature="9712:9756" ph="SELECT `pass... pass" />
+            <marker date="1524873245307" expanded="true" signature="10171:10253" ph="INSERT INTO pass... " />
+            <marker date="1524873245307" expanded="true" signature="11524:11652" ph="INSERT INTO crypto_pass... " />
+            <marker date="1524873245307" expanded="true" signature="12037:12056" ph="SELECT `addr... ltc_pass" />
+            <marker date="1524873245307" expanded="true" signature="12037:12119" ph="SELECT `addr... crypto_pass" />
+            <marker date="1524873245307" expanded="true" signature="13195:13239" ph="SELECT `pass... pass" />
+            <marker date="1524873245307" expanded="true" signature="13653:13735" ph="INSERT INTO pass... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/install.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="360" column="29" lean-forward="false" selection-start-line="360" selection-start-column="29" selection-end-line="360" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/themes/pass/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="81" column="106" lean-forward="false" selection-start-line="81" selection-start-column="106" selection-end-line="81" selection-end-column="106" />
+          <folding>
+            <marker date="1524872988460" expanded="true" signature="361:446" ph="SELECT `valu... theme_settings" />
+            <marker date="1524872988460" expanded="true" signature="2791:2873" ph="INSERT INTO pass... " />
+            <marker date="1524872988460" expanded="true" signature="3658:3702" ph="SELECT `pass... pass" />
+            <marker date="1524872988460" expanded="true" signature="3927:4008" ph="SELECT `valu... theme_settings" />
+            <marker date="1524872988460" expanded="true" signature="4095:4179" ph="SELECT `valu... theme_settings" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/themes/pass/ch_info.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#h3#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/themes/pass/miner.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/themes/pass/info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/themes/pass/getaddress.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="33" column="46" lean-forward="false" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

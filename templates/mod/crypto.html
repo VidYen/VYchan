@@ -1,0 +1,15 @@
+<form style="width:300px;margin:auto" action="?/crypto" method="post">
+    <input type="hidden" name="token" value="{{ token }}">
+    <p style="color:red;">Balance: {{ balance }} LTC</p>
+    <ul id="crypto">
+        <li>
+            <input type="textbox" name="address" placeholder="litecoin address" checked>
+        </li>
+    </ul>
+
+    <hr>
+
+    <p style="text-align:center">
+        <input type="submit" value="{% trans 'Move Crypto' %}" name="move">
+    </p>
+</form>

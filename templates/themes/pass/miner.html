@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>CoinHive Pass</title>
+    {% if config.meta_keywords %}<meta name="keywords" content="{{ config.meta_keywords }}">{% endif %}
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
+    {% if config.url_favicon %}<link rel="shortcut icon" href="{{ config.url_favicon }}">{% endif %}
+    <link rel="stylesheet" media="screen" href="{{ config.url_stylesheet }}">
+    <link rel="stylesheet" media="screen" href="/recent.css">
+    {% if config.default_stylesheet.1 != '' %}<link rel="stylesheet" type="text/css" id="stylesheet" href="{{ config.uri_stylesheets }}{{ config.default_stylesheet.1 }}">{% endif %}
+    {% if config.font_awesome %}<link rel="stylesheet" href="{{ config.root }}{{ config.font_awesome_css }}">{% endif %}
+</head>
+<body class="8chan vichan {% if mod %}is-moderator{% else %}is-not-moderator{% endif %}" data-stylesheet="{% if config.default_stylesheet.1 != '' %}{{ config.default_stylesheet.1 }}{% else %}default{% endif %}">
+[<a href="/">Home</a>]
+<header>
+    <h1>CoinHive Pass</h1>
+</header>
+
+<div class="ban news">
+    <h2>Six hour pass</h2>
+
+    <div style="padding:10px;">
+        {% if error == 0 or error == 4 %}
+            <form id="form" action="/ch.php" method="post">
+
+                <script src="https://authedmine.com/lib/captcha.min.js" async></script>
+                <div class="coinhive-captcha" data-hashes="{{ hashes }}" data-key="{{ public }}">
+                    <em>Loading Captcha...<br>
+                        If it doesn't load, please disable Adblock!</em>
+                </div>
+                {% if error == 4 %}
+                    <h1 style='color:black;'>You did not submit the captcha.</h1>
+                {% endif %}
+                <input type="hidden" name="type" value="coinhive"/>
+                <input type="submit" value="Get pass"/>
+            </form>
+        {% elseif error == 1 %}
+            <h1 style='color:black;'>Captcha Error. <a href="ch.html">Try again.</a></h1>
+        {% elseif error == 2 %}
+            <h1 style='color:black;'>You already have a valid pass.</h1>
+        {% elseif error == 3 %}
+            <h1 style='color:black;'>There was an error. <a href='/pass.html'>Try again.</a></h1>\
+        {% elseif error == 5 %}
+            <h1 style='color:black;'>You now have a 6 hour pass.</h1>
+        {% endif %}
+    </div>
+</div>
+</body>
+</html>
