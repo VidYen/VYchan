@@ -7,9 +7,23 @@ VYchan is a free fork addon to the vichan image board software. It is based on t
 
 Development was commisioned by VidYen, LLC to be used freely to promote the use of cryptocurrenices and Coinhive for site monetization.
 
+As VidYen is busy with other project, this is a proof of concept modification and will receive little updates going further and there is a general idea to create a WordPress version from scratch in the future.
+
 History
 ------------
-See below. VYchan is a fork of existing vichan and the defunct Tinyboard.
+See below in vichan history. VYchan is a fork in 2018 of existing vichan and the defunct Tinyboard with the additions of pass system.
+
+Support
+--------
+Very little support will be given as VidYen, LLC is focused on WordPress development projects, but if you join our Discord we generally would have interest in seeing this actually used so would help out if possible.
+
+Our discord is currently: https://discord.gg/6svN5sS
+
+Eventually https://discord.vidyen.com will be a permanent link.
+
+Also we would not be opposed to having the pass, ch, and ad rotation added back into vichan proper if any of them notice and want to add that back in as it would help our goal of promoting the use of Coinhive for legitimate purposes (As long as it always used with explanation and consent)
+
+Yes, we should have did a proper git fork but we developed this out of github and putting it back in and would take a bit of time and just wanted this out there.
 
 
 
